@@ -1,0 +1,2 @@
+# PropFirm-NQ-GC
+MN、MNQ、GC、MGC
